@@ -2,7 +2,7 @@
 
 Expanding our references for classes in New Media Art and Technology
 
-Hi! Have suggestions? Feel free to fork and send a pull request, post an issue, [tweet](https://twitter.com/2sman2sman), or [email](http://leetusman.com/about).
+Hi! Have suggestions? Feel free to fork and send a pull request, post an issue, [tweet](https://twitter.com/2sman2sman), or [email](http://leetusman.com/#info).
 
 ## Race and Technology
 
@@ -116,3 +116,120 @@ edited by Justine Cassell and Henry Jenkins
 ## MISC
 
 Where Did Our Utopia About the Net Go? - [video](https://www.youtube.com/watch?v=8eYJ4dOBfMI) by Shireen Mitchell for INBOUND Bold Talks
+
+# Artist references
+ 
+*This is not a Comprehensive list, only inspiration for further research for academics seeking to increase representation in New Media Curriculum.  
+Based on work by Anandkumar, A., Moline, A., Guiton, P. S. (2020). Atlas of Black Scholarship for Inclusive and Racially Diverse STEM 
+Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58*
+
+### AR/VR
+- [Jacolby	Satterwhite](http://jacolby.com/section/71777.html) -	Video Art Installation, Video Art, Animation, World Building, Storytelling	
+
+### Data Science/Data Viz
+- [Jasmine	McNealy](https://jasminemcnealy.com/) -	Ecological Data, Data Relations, Data Governance	- [link](https://datasociety.net/library/an-ecological-approach-to-data-governance/)
+- [Ruha	Benjamin](https://www.ruhabenjamin.com/)	- Technosculture, Technoscience, Critical Code, Critical Race Studies, Critical Algorithimic Studies	
+- [Joy	Buolamwini](https://www.poetofcode.com/	- Founder of [Algorithmic Justice League](https://www.ajl.org/)
+- W.E.B	Dubois	1900s	-	Original Inventor of Infographic and Data Visualization techniques, Sociologist - [article](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4)
+
+### Critical Surveillance Studies
+- [Joy	Buolamwini](https://www.poetofcode.com/) -	Founder of [Algorithmic Justice League](https://www.ajl.org/)
+
+### AI / Robotics
+- [Fox	Harrel](https://www.csail.mit.edu/person/d-fox-harrell) -	Artifical Intelligence, Video Games, Comparative Media, StoryTelling	Imagination, Computation, and Expression Laboratory 
+- [Stephanie	Dinkins](https://www.stephaniedinkins.com/) -	Robotics, Humanoids, Data Soverignty, Performace, Video Art	
+
+### 3d animation
+- [Laneya	Billingsley](https://vimeo.com/billie0cean) -	glossy, Video Art, 3D Animation
+
+### Video / Performance Art
+- [Jacolby	Satterwhite](http://jacolby.com/section/71777.html) -	Video Art Installation, Video Art, Animation, World Building, Storytelling	
+- [Derrick	Adams](http://www.derrickadams.com/performance)	Performance Art, Video Art, Painting	- [link](https://ybca.org/event/radical-presence-black-performance-in-contemporary-art/)
+- [Coco	Fusco](https://www.cocofusco.com/words-may-not-be-found) - [link](https://ybca.org/event/radical-presence-black-performance-in-contemporary-art/)
+- [Camae	Ayewa](https://www.blackquantumfuturism.com/performance) / Moor Mother - Multimedia, Music, Video Performance Lectures	
+- [Rasheedah	Phillips](https://www.blackquantumfuturism.com/performance-lectures0 - Black Quantum Futurism, Science Fiction - [link](http://metropolarity.net/)
+
+### Kinetic Sculpture
+- Fred	Eversley	- 1960s-current	-	parabolic sculpture, light motion, NASA scientist	- [link](https://vimeo.com/323043220)
+
+# Anti-Racism Resources
+
+### These resources are collected from a number of lists and sources online. They are run the gamut from articles and websites to books and syllabi. Pull requests welcome, or start an issue to leave suggestion. 
+
+*Resources in this section collected from [UCLA Conditional Arts](https://github.com/uclaconditional/anti-racism-resources)*
+
+## LEARN
+
+*  [Justice in June](https://docs.google.com/document/d/1H-Vxs6jEUByXylMS2BjGH1kQ7mEuZnHpPSs1Bpaqmw0/preview?pru=AAABcqmK4NM*DCQNMVURki1dLhMEcHwzDA) 
+*  [Black Lives Matter](https://blacklivesmatter.com/) 
+*  [http://antiracismforbeginners.com/](http://antiracismforbeginners.com/) 
+
+## READ
+
+### Reading Lists
+*  [Reading Towards Abolition: A Reading List on Policing, Rebellion, and the Criminalization of Blackness](https://www.radicalhistoryreview.org/abusablepast/reading-towards-abolition-a-reading-list-on-policing-rebellion-and-the-criminalization-of-blackness/) 
+*  [Black Feminist Thought](https://books.google.com/books/about/Black_Feminist_Thought.html?id=cdtYsU3zR14C)  by Patricia Hill Collins
+*  [Schomburg Center Black Liberation Reading List](https://www.nypl.org/blog/2020/06/09/schomburg-center-black-liberation-reading-list)  
+*  [Black Anarchism: A Reader | The Anarchist Library](https://theanarchistlibrary.org/library/black-rose-anarchist-federation-black-anarchism-a-reader) 
+
+### Books
+
+*  [Eloquent Rage: A Black Feminist Discovers Her Superpower](https://read.macmillan.com/lp/eloquent-rage/)  by Dr. Brittney Cooper
+*  [Heavy: An American Memoir](https://www.kieselaymon.com/heavy)  by Kiese Laymon
+*  [How To Be An Antiracist](https://www.ibramxkendi.com/how-to-be-an-antiracist-1)  by Dr. Ibram X. Kendi
+*  [I Know Why the Caged Bird Sings](https://www.penguinrandomhouse.com/books/3924/i-know-why-the-caged-bird-sings-by-maya-angelou/)  by Maya [ Angelou](https://chipublib.bibliocommons.com/search?q=%22Angelou%2C+Maya%22&search_category=author&t=author) 
+*  [Just Mercy](https://justmercy.eji.org/)  by Bryan Stevenson
+*  [Me and White Supremacy](http://laylafsaad.com/meandwhitesupremacy)  by Layla F. Saad
+*  [Raising Our Hands](https://www.jennaarnold.com/book)  by Jenna Arnold
+*  [Redefining Realness](https://www.simonandschuster.com/books/Redefining-Realness/Janet-Mock/9781476709130)  by Janet [ Mock](https://chipublib.bibliocommons.com/search?q=%22Mock%2C+Janet%22&search_category=author&t=author) 
+*  [Sister Outsider](https://www.penguinrandomhouse.com/books/198292/sister-outsider-by-audre-lorde/)  by Audre Lorde
+*  [So You Want to Talk About Race](https://www.sealpress.com/titles/ijeoma-oluo/so-you-want-to-talk-about-race/9781580056779/)  by Ijeoma Oluo
+*  [The Bluest Eye](https://www.penguinrandomhouse.com/books/117662/the-bluest-eye-by-toni-morrison/)  by Toni Morrison
+*  [The Fire Next Time](https://www.penguinrandomhouse.com/books/7753/the-fire-next-time-by-james-baldwin/9780679744726/teachers-guide/)  by James Baldwin
+*  [The New Jim Crow: Mass Incarceration in the Age of Colorblindness](https://newjimcrow.com/)  by Michelle Alexander
+*  [The Next American Revolution: Sustainable Activism for the Twenty-First Century](https://www.ucpress.edu/book/9780520272590/the-next-american-revolution)  by Grace Lee Boggs
+*  [The Warmth of Other Suns](https://www.penguinrandomhouse.com/books/190696/the-warmth-of-other-suns-by-isabel-wilkerson/)  by Isabel Wilkerson
+*  [Their Eyes Were Watching God](https://www.zoranealehurston.com/books/their-eyes-were-watching-god/)  by Zora Neale Hurston
+*  [This Bridge Called My Back: Writings by Radical Women of Color](https://bookshop.org/books/this-bridge-called-my-back-fourth-edition-writings-by-radical-women-of-color/9781438454382)  by Cherríe Moraga
+*  [When Affirmative Action Was White: An Untold History of Racial Inequality in Twentieth-Century America](https://books.google.com/books/about/When_Affirmative_Action_was_White.html?id=cfhneJPcD38C)  by Ira Katznelson
+*  [White Fragility: Why It’s So Hard for White People to Talk About Racism](https://robindiangelo.com/publications/)  by Robin DiAngelo, PhD
+*  [Freedom Is a Constant Struggle](https://www.goodreads.com/book/show/25330108-freedom-is-a-constant-struggle?ac=1&from_search=true&qid=ce3kHrOzgY&rank=1)  by Angela Y. Davis
+*  [Dark Matters: On the Surveillance of Blackness](https://www.goodreads.com/book/show/23525954-dark-matters)  by Simone Browne
+*  [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology)  by Ruha Benjamin
+
+### Articles
+
+*  [Understanding racism and inequality in America](https://www.washingtonpost.com/nation/2020/06/08/understanding-racism-inequality-america/)  Washington Post
+*  [We Need an Academic New Deal](https://www.thenation.com/article/society/academic-new-deal/)  The Nation
+*  [How White Supremacy turned Asian and Black Communities Against Each Other](https://nextshark.com/doug-kim-asian-black-relations-america/)  Next Shark
+
+## LISTEN
+
+*  [1619 (New York Times)](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html) 
+*  [About Race](https://www.showaboutrace.com/) 
+*  [Code Switch (NPR)](https://www.npr.org/sections/codeswitch/) 
+*  [Intersectionality Matters! hosted by Kimberlé Crenshaw](https://podcasts.apple.com/us/podcast/intersectionality-matters/id1441348908) 
+*  [Momentum: A Race Forward Podcast](https://www.raceforward.org/media/podcast/momentum-race-forward-podcast) 
+*  [Pod For The Cause (from The Leadership Conference on Civil & Human Rights)](https://civilrights.org/podforthecause/) 
+*  [Pod Save the People (Crooked Media)](https://crooked.com/podcast-series/pod-save-the-people/) 
+*  [Seeing White](https://www.sceneonradio.org/seeing-white/) 
+
+## WATCH
+
+*  [Black Feminism & the Movement for Black Lives: Barbara Smith, Reina Gossett, Charlene Carruthers (50:48)](https://youtu.be/eV3nnFheQRo) 
+*  [“How Studying Privilege Systems Can Strengthen Compassion”](https://youtu.be/e-BY9UEewHw)  | Peggy McIntosh at TEDxTimberlaneSchools (18:26)
+*  [Reconstruction: America After the Civil War](https://www.pbs.org/weta/reconstruction/) 
+*  [13th](https://youtu.be/krfcq5pF8u8)  | by Ava DuVernay (1:40:02)
+
+## TEACHING
+
+*  [Difficult Knowledge, Trauma Informed Pedagogy and Safe-ish Spaces](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=d3186f9a71&e=44ebc78a6d)  _(UC Berkeley)_
+*  [Affirming Black Lives Without Inducing Trauma](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=10f7e98f03&e=44ebc78a6d) _(Teaching Tolerance)_
+*  [Zinn Education Project Teaching Materials](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=bcf039c67f&e=44ebc78a6d) _(Zinn Education Project)_
+
+### Readers and Syllabi
+*  [The Decolonizing Design Reader](https://docs.google.com/document/d/1Hbymt6a3zz044xF_LCqGfTmXJip3cetj5sHlxZEjtJ4/edit?pli=1) 
+*  [Teaching to Transgress: Education as the Practice of Freedom](https://www.goodreads.com/book/show/27091.Teaching_to_Transgress?ac=1&from_search=true&qid=KsajnB6YFJ&rank=1)_(by bell hooks)_
+*  [Pedagogy of the Oppressed](https://www.goodreads.com/book/show/72657.Pedagogy_of_the_Oppressed)_(by Paulo Freire)_
+* [Tech and Media Art – Decolonize the Syllabus](https://docs.google.com/document/d/1XQyVA4iHM9uK_XGxx92aLLbMIoRqKzSs47sjIZ3Kulg/edit)
+* [Decolonizing Games Reader](https://docs.google.com/document/d/132Ht4B52xhyYJoohWHSAWl2yNUJjZNvt8JlhbpG_Qds/edit)
