@@ -6,7 +6,7 @@ Hi! Have suggestions? Feel free to fork and send a pull request, post an issue, 
 
 ## Race and Technology
 
-- This section contains resources from [Daniel Shiffman](https://github.com/shiffman/anti-racism-reading-list)
+*This section contains resources from [Daniel Shiffman](https://github.com/shiffman/anti-racism-reading-list)*
 
 Working on a reading list for curriculum related to how technology perpetuates racism. 
 
