@@ -132,7 +132,9 @@ Based on work by Anandkumar, A., Moline, A., Guiton, P. S. (2020) , Atlas of Bla
 Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58. I've added to their list but I'd consider this section to still be quite limited at this time.*
 
 ### AR/VR
+- [Auriea Harvey](http://auriea.org/index.pl), 1/2 of production studio [Tale of Tales](http://www.tale-of-tales.com/index.php) - AR, 3d, Games, World Building, Storytelling - see [Sunset](http://tale-of-tales.com/Sunset/) and [The Graveyard](http://tale-of-tales.com/TheGraveyard/), was one of the earliest net artists - see [skinonskinonskin](https://anthology.rhizome.org/skinonskinonskin)
 - [Jacolby	Satterwhite](http://jacolby.com/section/71777.html) -	Video Art Installation, Video Art, Animation, World Building, Storytelling	
+- [Alfredo Salazar-Caro](https://www.salazarcaro.com/), Director of the Digital Museum of Digital Art aka [DiMoDa](https://dimoda.art/)
 
 ### Data Science/Data Viz
 - [Mimi Ọnụọha](http://mimionuoha.com/about) - Data and Surveillance - [link](https://github.com/MimiOnuoha/missing-datasets) to The Library of Missing Data Sets
@@ -154,11 +156,22 @@ Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58. I'v
 - [Jacolby	Satterwhite](http://jacolby.com/section/71777.html) -	Video Art Installation, Video Art, Animation, World Building, Storytelling	
 - [Derrick	Adams](http://www.derrickadams.com/performance)	Performance Art, Video Art, Painting	- [link](https://ybca.org/event/radical-presence-black-performance-in-contemporary-art/)
 - [Coco	Fusco](https://www.cocofusco.com/words-may-not-be-found) - [link](https://ybca.org/event/radical-presence-black-performance-in-contemporary-art/)
+- [Martine Syms](https://martinesy.ms/) - "video and performance to examine representations of blackness" - e.g. [EverythingIveEverWantedToKnow](https://anthology.rhizome.org/everythingiveeverwantedtoknow-com)
 - [Camae	Ayewa](https://www.blackquantumfuturism.com/performance) / Moor Mother - Multimedia, Music, Video Performance Lectures	
 - [Rasheedah	Phillips](https://www.blackquantumfuturism.com/performance-lectures0) - Black Quantum Futurism, Science Fiction - [link](http://metropolarity.net/)
 
+### Net Art / Web-based project
+- Mendi + Keith Obadike - [Black Net.Art Actions](https://anthology.rhizome.org/black-net-art-actions), 2001 - 2003
+- William pope.L - [The Black Factory](https://theblackfactory.com/overview.html) - Web, Performance, Installation, Intervention, 2001 - 2008
+- Electronic Disturbance Theater - [FloodNet](https://anthology.rhizome.org/floodnet)
+- [netart latino database](https://anthology.rhizome.org/netart-latino-database), 1999 - 2004
+- VNS Matrix - [A Cyberfeminist Manifesto for the 21st Century](https://anthology.rhizome.org/a-cyber-feminist-manifesto-for-the-21st-century)
+- Jayson Musson - [Art Thoughtz](https://anthology.rhizome.org/art-thoughtz
+), 2010 - 2012
+
 ### Installation / Speculative Design
--  [Ayodamola Tanimowo Okunseinde](http://ayo.io/about.html)
+-  [Ayodamola Tanimowo Okunseinde](http://ayo.io/about.html) - [The Rift: An Afronaut's Journey](http://ayo.io/rift.html), [Ayapo Repository](http://www.iyaporepository.org/), with Salome Asega
+- [Salome Asega](https://www.salome.zone/)
 
 ### Kinetic Sculpture
 - Fred	Eversley	- 1960s-current	-	parabolic sculpture, light motion, NASA scientist	- [link](https://vimeo.com/323043220)
