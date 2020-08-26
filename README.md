@@ -4,7 +4,7 @@ Expanding our references for classes in New Media Art and Technology
 
 *Hi! Have suggestions? Feel free to fork and send a pull request, post an issue, [tweet](https://twitter.com/2sman2sman), or [email](http://leetusman.com/#info). This resource should not be considered definitive nor authoritative but instead a starting point and limited document! Thanks*
 
-## UPDATE! Please note: There has been [criticsm](http://www.criticalethnicstudiesjournal.org/blog/2019/1/21/do-not-decolonize-if-you-are-not-decolonizing-alternate-language-to-navigate-desires-for-progressive-academia-6y5sg) of academia and non-BIPOC for *sloppy attempts to ‘decolonize’ a syllabus or a programme without any real structural changes*. I want to acknowledge this criticism and note some alternative suggested terms.
+## UPDATE! Please note: There has been [criticism](http://www.criticalethnicstudiesjournal.org/blog/2019/1/21/do-not-decolonize-if-you-are-not-decolonizing-alternate-language-to-navigate-desires-for-progressive-academia-6y5sg) of academia and non-BIPOC for *sloppy attempts to ‘decolonize’ a syllabus or a program without any real structural changes*. I want to acknowledge this criticism and note some alternative suggested terms.
 
 - Diversify your syllabus and curriculum 
 - Digress from the cannon
