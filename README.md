@@ -181,7 +181,7 @@ Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58. I'v
 *  [Reading Towards Abolition: A Reading List on Policing, Rebellion, and the Criminalization of Blackness](https://www.radicalhistoryreview.org/abusablepast/reading-towards-abolition-a-reading-list-on-policing-rebellion-and-the-criminalization-of-blackness/) 
 *  [Black Feminist Thought](https://books.google.com/books/about/Black_Feminist_Thought.html?id=cdtYsU3zR14C)  by Patricia Hill Collins
 *  [Schomburg Center Black Liberation Reading List](https://www.nypl.org/blog/2020/06/09/schomburg-center-black-liberation-reading-list)  
-*  [Black Anarchism: A Reader | The Anarchist Library](https://theanarchistlibrary.org/library/black-rose-anarchist-federation-black-anarchism-a-reader) 
+*  [Black Anarchism: A Reader](https://theanarchistlibrary.org/library/black-rose-anarchist-federation-black-anarchism-a-reader) 
 
 ### Books
 
