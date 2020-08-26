@@ -2,7 +2,7 @@
 
 Expanding our references for classes in New Media Art and Technology
 
-Hi! Have suggestions? Feel free to fork and send a pull request, post an issue, [tweet](https://twitter.com/2sman2sman), or [email](http://leetusman.com/#info).
+*Hi! Have suggestions? Feel free to fork and send a pull request, post an issue, [tweet](https://twitter.com/2sman2sman), or [email](http://leetusman.com/#info). This resource should not be considered definitive nor authoritative but instead a starting point and limited document! Thanks*
 
 ## Race and Technology
 
@@ -60,7 +60,6 @@ What is Design Justice? - [video](https://vimeo.com/354276956) by Sasha Costanza
 ## Queer Studies
 
 Imagining Radical Queer Futures: [video](https://www.youtube.com/watch?v=MHEZ_N9pvmk&feature=youtu.be), by Morgen Bromell at AlterConf San Francisco 2016
-
 
 ## Lists of books on wider issues of racial justice and tech 
 
@@ -120,16 +119,16 @@ Where Did Our Utopia About the Net Go? - [video](https://www.youtube.com/watch?v
 # Artist references
  
 *This is not a Comprehensive list, only inspiration for further research for academics seeking to increase representation in New Media Curriculum.  
-Based on work by Anandkumar, A., Moline, A., Guiton, P. S. (2020). Atlas of Black Scholarship for Inclusive and Racially Diverse STEM 
-Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58*
+Based on work by Anandkumar, A., Moline, A., Guiton, P. S. (2020) , Atlas of Black Scholarship for Inclusive and Racially Diverse STEM 
+Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58. I've added to their list but I'd consider this section to still be quite limited at this time.*
 
 ### AR/VR
 - [Jacolby	Satterwhite](http://jacolby.com/section/71777.html) -	Video Art Installation, Video Art, Animation, World Building, Storytelling	
 
 ### Data Science/Data Viz
+- [Mimi Ọnụọha](http://mimionuoha.com/about) - Data and Surveillance - [link](https://github.com/MimiOnuoha/missing-datasets) to The Library of Missing Data Sets
 - [Jasmine	McNealy](https://jasminemcnealy.com/) -	Ecological Data, Data Relations, Data Governance	- [link](https://datasociety.net/library/an-ecological-approach-to-data-governance/)
 - [Ruha	Benjamin](https://www.ruhabenjamin.com/)	- Technosculture, Technoscience, Critical Code, Critical Race Studies, Critical Algorithimic Studies	
-- [Joy	Buolamwini](https://www.poetofcode.com/	- Founder of [Algorithmic Justice League](https://www.ajl.org/)
 - W.E.B	Dubois	1900s	-	Original Inventor of Infographic and Data Visualization techniques, Sociologist - [article](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4)
 
 ### Critical Surveillance Studies
@@ -148,6 +147,9 @@ Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58*
 - [Coco	Fusco](https://www.cocofusco.com/words-may-not-be-found) - [link](https://ybca.org/event/radical-presence-black-performance-in-contemporary-art/)
 - [Camae	Ayewa](https://www.blackquantumfuturism.com/performance) / Moor Mother - Multimedia, Music, Video Performance Lectures	
 - [Rasheedah	Phillips](https://www.blackquantumfuturism.com/performance-lectures0 - Black Quantum Futurism, Science Fiction - [link](http://metropolarity.net/)
+
+### Installation / Speculative Design
+-  [Ayodamola Tanimowo Okunseinde](http://ayo.io/about.html)
 
 ### Kinetic Sculpture
 - Fred	Eversley	- 1960s-current	-	parabolic sculpture, light motion, NASA scientist	- [link](https://vimeo.com/323043220)
