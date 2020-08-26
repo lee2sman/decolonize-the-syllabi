@@ -146,7 +146,7 @@ Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58. I'v
 - [Derrick	Adams](http://www.derrickadams.com/performance)	Performance Art, Video Art, Painting	- [link](https://ybca.org/event/radical-presence-black-performance-in-contemporary-art/)
 - [Coco	Fusco](https://www.cocofusco.com/words-may-not-be-found) - [link](https://ybca.org/event/radical-presence-black-performance-in-contemporary-art/)
 - [Camae	Ayewa](https://www.blackquantumfuturism.com/performance) / Moor Mother - Multimedia, Music, Video Performance Lectures	
-- [Rasheedah	Phillips](https://www.blackquantumfuturism.com/performance-lectures0 - Black Quantum Futurism, Science Fiction - [link](http://metropolarity.net/)
+- [Rasheedah	Phillips](https://www.blackquantumfuturism.com/performance-lectures0) - Black Quantum Futurism, Science Fiction - [link](http://metropolarity.net/)
 
 ### Installation / Speculative Design
 -  [Ayodamola Tanimowo Okunseinde](http://ayo.io/about.html)
