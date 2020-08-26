@@ -2,7 +2,7 @@
 
 Expanding our references for classes in New Media Art and Technology
 
-*Hi! Have suggestions? Feel free to fork and send a pull request, post an issue, [tweet](https://twitter.com/2sman2sman), or [email](http://leetusman.com/#info). This resource should not be considered definitive nor authoritative but instead a starting point and limited document! Thanks*
+*Hi! Have suggestions? Feel free to [fork](https://github.com/lee2sman/decolonize-the-syllabi) the source and send a pull request, post an [issue](https://github.com/lee2sman/decolonize-the-syllabi/issues/new/choose), [tweet](https://twitter.com/2sman2sman) at me, or [email](http://leetusman.com/#info) via me (details on my website). This resource should not be considered definitive nor authoritative but instead a starting point and limited in-progress document! Thanks*
 
 ## UPDATE! Please note: There has been [criticism](http://www.criticalethnicstudiesjournal.org/blog/2019/1/21/do-not-decolonize-if-you-are-not-decolonizing-alternate-language-to-navigate-desires-for-progressive-academia-6y5sg) of academia and non-BIPOC for *sloppy attempts to ‘decolonize’ a syllabus or a program without any real structural changes*. I want to acknowledge this criticism and note some alternative suggested terms.
 
