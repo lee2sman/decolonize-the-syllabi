@@ -156,6 +156,7 @@ The list was initially started based on a list by Anandkumar, A., Moline, A., Gu
 ### Games
 - [Auriea Harvey](http://auriea.org/index.pl), 1/2 of [Tale of Tales](http://www.tale-of-tales.com/) studio - sculpture, simulations, videogames, net archaeology
 - [Chrisina Phazero Curley](https://phazero.itch.io/) - game artist, designer
+- [A.M. Darke](https://prettydarke.cool/) - [Open Source Afro Hair Library](https://prettydarke.cool/portfolio/open-source-afro-hair-library/), [In Passing](https://prettydarke.cool/portfolio/in-passing-v-2/), [Objectif](https://prettydarke.cool/portfolio/objectif/)
 
 ### Video / Performance Art
 - [Jacolby	Satterwhite](http://jacolby.com/section/71777.html) -	Video Art Installation, Video Art, Animation, World Building, Storytelling	
