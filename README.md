@@ -133,7 +133,7 @@ The list was initially started based on a list by Anandkumar, A., Moline, A., Gu
 ### AR/VR
 - [Auriea Harvey](http://auriea.org/index.pl), 1/2 of production studio [Tale of Tales](http://www.tale-of-tales.com/index.php) - AR, 3d, Games, World Building, Storytelling - see [Sunset](http://tale-of-tales.com/Sunset/) and [The Graveyard](http://tale-of-tales.com/TheGraveyard/), was one of the earliest net artists - see [skinonskinonskin](https://anthology.rhizome.org/skinonskinonskin)
 - [Jacolby	Satterwhite](http://jacolby.com/section/71777.html) -	Video Art Installation, Video Art, Animation, World Building, Storytelling	
-- [Alfredo Salazar-Caro](https://www.salazarcaro.com/), Director of the Digital Museum of Digital Art aka [DiMoDa](https://dimoda.art/)
+- [Huntrezz](https://huntrezz.com/) - Late at Tate Stream 1: [Artist Talk](https://www.youtube.com/watch?v=pRlQ-O-CO8I&feature=youtu.be&t=1041&autoplay=1&mute=0)
 
 ### Data Science/Data Viz
 - [Mimi Ọnụọha](http://mimionuoha.com/about) - Data and Surveillance - [link](https://github.com/MimiOnuoha/missing-datasets) to The Library of Missing Data Sets
@@ -150,7 +150,6 @@ The list was initially started based on a list by Anandkumar, A., Moline, A., Gu
 
 ### 3d animation
 - [Laneya	Billingsley](https://vimeo.com/billie0cean) -	glossy, Video Art, 3D Animation
-- [Huntrezz](https://huntrezz.com/) - Late at Tate Stream 1: [Artist Talk](https://www.youtube.com/watch?v=pRlQ-O-CO8I&feature=youtu.be&t=1041&autoplay=1&mute=0)
 - [LaJuné McMillian](https://laja.m) - Black Movement Project - "New Media Artist, Maker, and Creative Technologist" 
 
 ### Games
