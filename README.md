@@ -127,9 +127,8 @@ Where Did Our Utopia About the Net Go? - [video](https://www.youtube.com/watch?v
 
 # Artist references
  
-*This is not a Comprehensive list, only inspiration for further research for academics seeking to increase representation in New Media Curriculum.  
-Based on work by Anandkumar, A., Moline, A., Guiton, P. S. (2020) , Atlas of Black Scholarship for Inclusive and Racially Diverse STEM 
-Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58. I've added to their list but I'd consider this section to still be quite limited at this time.*
+*This is not a Comprehensive list, only inspiration for further research for academics seeking to increase representation in New Media Curricula. 
+The list was initially started based on a list by Anandkumar, A., Moline, A., Guiton, P. S. (2020) , Atlas of Black Scholarship for Inclusive and Racially Diverse STEM Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58. I've added to their list but I'd consider this section to still be quite limited at this time. **This section is the most in flux, should not be considered a definitive list of the most important artists, and should be reorganized! Many of these artists fit among many categories.**
 
 ### AR/VR
 - [Auriea Harvey](http://auriea.org/index.pl), 1/2 of production studio [Tale of Tales](http://www.tale-of-tales.com/index.php) - AR, 3d, Games, World Building, Storytelling - see [Sunset](http://tale-of-tales.com/Sunset/) and [The Graveyard](http://tale-of-tales.com/TheGraveyard/), was one of the earliest net artists - see [skinonskinonskin](https://anthology.rhizome.org/skinonskinonskin)
@@ -151,6 +150,12 @@ Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58. I'v
 
 ### 3d animation
 - [Laneya	Billingsley](https://vimeo.com/billie0cean) -	glossy, Video Art, 3D Animation
+- [Huntrezz](https://huntrezz.com/) - Late at Tate Stream 1: [Artist Talk](https://www.youtube.com/watch?v=pRlQ-O-CO8I&feature=youtu.be&t=1041&autoplay=1&mute=0)
+- [LaJuné McMillian](https://laja.m) - Black Movement Project - "New Media Artist, Maker, and Creative Technologist" 
+
+### Games
+- [Auriea Harvey](http://auriea.org/index.pl), 1/2 of [Tale of Tales](http://www.tale-of-tales.com/) studio - sculpture, simulations, videogames, net archaeology
+- [Chrisina Phazero Curley](https://phazero.itch.io/) - game artist, designer
 
 ### Video / Performance Art
 - [Jacolby	Satterwhite](http://jacolby.com/section/71777.html) -	Video Art Installation, Video Art, Animation, World Building, Storytelling	
@@ -159,13 +164,13 @@ Curricula – Volume I. QUBES Educational Resources. doi:10.25334/CEM2-HH58. I'v
 - [Martine Syms](https://martinesy.ms/) - "video and performance to examine representations of blackness" - e.g. [EverythingIveEverWantedToKnow](https://anthology.rhizome.org/everythingiveeverwantedtoknow-com)
 - [Camae	Ayewa](https://www.blackquantumfuturism.com/performance) / Moor Mother - Multimedia, Music, Video Performance Lectures	
 - [Rasheedah	Phillips](https://www.blackquantumfuturism.com/performance-lectures0) - Black Quantum Futurism, Science Fiction - [link](http://metropolarity.net/)
+- [shawné michaelain holloway](https://www.shawnemichaelainholloway.com/) - sound, video, performance - "shapes the rhetorics of technology and sexuality into tools for exposing structures of power."
 
 ### Net Art / Web-based project
 - Mendi + Keith Obadike - [Black Net.Art Actions](https://anthology.rhizome.org/black-net-art-actions), 2001 - 2003
 - William pope.L - [The Black Factory](https://theblackfactory.com/overview.html) - Web, Performance, Installation, Intervention, 2001 - 2008
 - Electronic Disturbance Theater - [FloodNet](https://anthology.rhizome.org/floodnet)
 - [netart latino database](https://anthology.rhizome.org/netart-latino-database), 1999 - 2004
-- VNS Matrix - [A Cyberfeminist Manifesto for the 21st Century](https://anthology.rhizome.org/a-cyber-feminist-manifesto-for-the-21st-century)
 - Jayson Musson - [Art Thoughtz](https://anthology.rhizome.org/art-thoughtz
 ), 2010 - 2012
 
